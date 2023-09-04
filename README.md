@@ -1,5 +1,5 @@
 # I AM Mohammad 😉
-Over 10 years of experience in the IT industry.
+Over 12 years of experience in the IT industry.
 I continuously enjoy learning new technologies exclusively programming languages by watching tutorials.
 Robust information technology professional skilled in PHP pure, Laravel, Web Design, Cascading Style Sheets, JavaScript, and HTML. Writing well-designed, testable, efficient code by using best software development practices and integrating data from various back-end services and databases.
 
