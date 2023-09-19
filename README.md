@@ -1,4 +1,4 @@
-# I AM Mohammad 😉
+# I AM Mohammad 😉👋
 I am a detail-oriented and fast learner and a seasoned Full Stack developer with over 8 years of experience in PHP (Laravel) and Vue.JS
 (Nuxt.JS). I specialize in crafting responsive and intricate web applications on time and within budget while prioritizing UX and performance
 to drive business growth. I am also passionate about mentoring and fostering team learning and development
