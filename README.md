@@ -5,7 +5,7 @@ to drive business growth. I am also passionate about mentoring and fostering tea
 
 I have a lot of experience working on the following technologies
 - **Backend**: PHP, Laravel
-- **Frontend**: JavaScript, Vue.JS, Nuxt.JS, Angular, Livewire
+- **Frontend**: JavaScript, Vue.JS, Nuxt.JS, Livewire
 - **Style Web**: Tailwind, Bootstrap, HTML, SCSS, Flex CSS
 - **Database**: MySQL, PostgreSQL, Oracle, MongoDB, Redis
 - **Microservices**: REST, GraphQL, CQRS, RabbitMQ
